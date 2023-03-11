@@ -113,5 +113,9 @@ a {
         gap: 30px;
     }
 
+    .btn {
+        font-size: 0.7rem;
+    }
+
 
 }
